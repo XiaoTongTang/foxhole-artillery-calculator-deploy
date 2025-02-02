@@ -1,0 +1,13 @@
+<svg width="600" height="600" xmlns="http://www.w3.org/2000/svg" style="vector-effect: non-scaling-stroke;" stroke="null">
+
+ <g stroke="null">
+  <title stroke="null">Layer 1</title>
+  <path stroke="#000" id="svg_1" d="m-94.48615,20.10706l736.30995,0l0,632.3709l-736.30995,0l0,-632.3709z" opacity="undefined" fill="#7f7f7f"/>
+  <rect transform="rotate(50.5695 308.638 369.188)" stroke="#000" stroke-width="9" id="svg_5" height="211.7393" width="199.36635" y="263.31833" x="208.95453" fill="#ffffff"/>
+  <rect transform="rotate(50.5695 230.368 284.043)" stroke="#000" stroke-width="9" id="svg_2" height="102.46812" width="484.73579" y="232.80846" x="-12.00029" fill="#ffffff"/>
+  <rect stroke="#000" stroke-width="9" id="svg_10" height="104.99999" width="176.99999" y="454" x="365.80001" fill="#ffffff"/>
+  <path stroke="#000" stroke-width="9" id="svg_12" d="m100.32102,436.35829l33.54362,-30.74832l134.45638,0l0,153.99999l-168,0l0,-123.25167z" fill="#ffffff"/>
+  <path stroke="#000" stroke-width="9" id="svg_14" d="m365.86099,424.33362l-22.36242,-33.54362l-89.63758,0l0,168l112,0l0,-134.45638z" fill="#ffffff"/>
+  <ellipse stroke="#0f0f00" stroke-width="9" ry="60.5" rx="59" id="svg_3" cy="366.49998" cx="301.99998" fill="#ffffff"/>
+ </g>
+</svg>
